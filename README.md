@@ -2,7 +2,7 @@ Curl & Coiffure is a Hair Salon located in Gulfport, Florida. I made this site f
 
 Link to project: https://curl-coiffure-hair-salon.netlify.app
 
-![alt tag](https://cristianroblero.netlify.app/images/fulls/curl-coiffure-hair-salon.png)
+![Preview of Curl & Coiffure](https://cristianroblero.netlify.app/images/fulls/curl-coiffure-hair-salon.png)
 
 ## How It's Made:
 
